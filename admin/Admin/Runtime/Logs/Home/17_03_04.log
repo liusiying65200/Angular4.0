@@ -1,0 +1,1012 @@
+[ 2017-03-04T19:07:06+08:00 ] 127.0.0.1 /admin.php/Pic/index_class/se/199
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000202s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000937s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+NOTIC: D方法实例化没找到模型类Home\Model\PicClassModel
+NOTIC: [8] Undefined variable: Id E:\git\cpbbs\www\Admin\Home\Controller\PicController.class.php 第 191 行.
+NOTIC: [8] Undefined index: page E:\git\cpbbs\www\Admin\Common\Page.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000793s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001020s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.283592s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.283981s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000739s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.017906s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000046s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.018930s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001806s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002101s ]
+
+[ 2017-03-04T19:38:57+08:00 ] 127.0.0.1 /admin.php/Pic/index_class/se/199
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000254s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000642s ]
+NOTIC: D方法实例化没找到模型类Home\Model\PicClassModel
+NOTIC: [8] Undefined variable: Id E:\git\cpbbs\www\Admin\Home\Controller\PicController.class.php 第 191 行.
+NOTIC: [8] Undefined index: page E:\git\cpbbs\www\Admin\Common\Page.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000247s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000361s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.165427s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.165569s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000436s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000107s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001099s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000910s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001170s ]
+
+[ 2017-03-04T19:38:59+08:00 ] 127.0.0.1 /admin.php/Tuku/caise/se/201
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000838s ]
+NOTIC: D方法实例化没找到模型类Home\Model\TukuModel
+NOTIC: [8] Undefined index: page E:\git\cpbbs\www\Admin\Common\Page.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000244s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000362s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.200638s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.200760s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000467s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000053s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001186s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000797s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000937s ]
+
+[ 2017-03-04T19:39:04+08:00 ] 127.0.0.1 /admin.php/Bbs/index/se/252
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000528s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000712s ]
+NOTIC: D方法实例化没找到模型类Home\Model\BbsModel
+NOTIC: [8] Undefined index: page E:\git\cpbbs\www\Admin\Common\Page.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000223s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000336s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.195717s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.195867s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000509s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000651s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000054s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001461s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000907s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001089s ]
+
+[ 2017-03-04T19:39:08+08:00 ] 127.0.0.1 /admin.php/Caiji/bbsx/se/254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000744s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [8] Undefined index: page E:\git\cpbbs\www\Admin\Common\Page.class.php 第 15 行.
+NOTIC: [8] Undefined variable: search E:\git\cpbbs\www\Admin\Home\Controller\CaijiController.class.php 第 43 行.
+NOTIC: [8] Undefined variable: search E:\git\cpbbs\www\Admin\Home\Controller\CaijiController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000456s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000667s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.169069s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.169196s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000423s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000452s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000060s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001149s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000675s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000801s ]
+
+[ 2017-03-04T19:39:10+08:00 ] 127.0.0.1 /admin.php/Caiji/kj/se/246
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000674s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000196s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000335s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.265258s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.265413s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000497s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000049s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001319s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000761s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000889s ]
+
+[ 2017-03-04T19:39:12+08:00 ] 127.0.0.1 /admin.php/Caiji/pic/se/244
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000131s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000491s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [8] Undefined index: page E:\git\cpbbs\www\Admin\Common\Page.class.php 第 15 行.
+NOTIC: [8] Undefined variable: search E:\git\cpbbs\www\Admin\Home\Controller\CaijiController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: search E:\git\cpbbs\www\Admin\Home\Controller\CaijiController.class.php 第 30 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000333s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000445s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.181702s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.181843s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000453s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000592s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000103s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001486s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000787s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000990s ]
+
+[ 2017-03-04T19:39:14+08:00 ] 127.0.0.1 /admin.php/Caiji/index/se/205
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000154s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000569s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [8] Undefined index: page E:\git\cpbbs\www\Admin\Common\Page.class.php 第 15 行.
+NOTIC: [8] Undefined variable: search E:\git\cpbbs\www\Admin\Home\Controller\CaijiController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: search E:\git\cpbbs\www\Admin\Home\Controller\CaijiController.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000334s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000443s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.162368s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.162499s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000279s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000621s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000058s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001160s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000605s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000730s ]
+
+[ 2017-03-04T19:39:17+08:00 ] 127.0.0.1 /admin.php/Plug/plug_adtype_list/se/195
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000591s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000762s ]
+NOTIC: [8] Undefined index: page E:\git\cpbbs\www\Admin\Common\Page.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000314s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000461s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.139392s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.139513s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000507s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000056s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001103s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000521s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000692s ]
+
+[ 2017-03-04T19:39:18+08:00 ] 127.0.0.1 /admin.php/Plug/plug_ad_list/se/44
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000655s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000843s ]
+NOTIC: [8] Undefined index: page E:\git\cpbbs\www\Admin\Common\Page.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000297s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000410s ]
+NOTIC: [8] Use of undefined constant plug_ad_open - assumed 'plug_ad_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\7e9cfe7c30de12c1d61a04fe2984b8a6.php 第 287 行.
+NOTIC: [8] Use of undefined constant plug_ad_open - assumed 'plug_ad_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\7e9cfe7c30de12c1d61a04fe2984b8a6.php 第 287 行.
+NOTIC: [8] Use of undefined constant plug_ad_open - assumed 'plug_ad_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\7e9cfe7c30de12c1d61a04fe2984b8a6.php 第 287 行.
+NOTIC: [8] Use of undefined constant plug_ad_open - assumed 'plug_ad_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\7e9cfe7c30de12c1d61a04fe2984b8a6.php 第 287 行.
+NOTIC: [8] Use of undefined constant plug_ad_open - assumed 'plug_ad_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\7e9cfe7c30de12c1d61a04fe2984b8a6.php 第 287 行.
+NOTIC: [8] Use of undefined constant plug_ad_open - assumed 'plug_ad_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\7e9cfe7c30de12c1d61a04fe2984b8a6.php 第 287 行.
+NOTIC: [8] Use of undefined constant plug_ad_open - assumed 'plug_ad_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\7e9cfe7c30de12c1d61a04fe2984b8a6.php 第 287 行.
+NOTIC: [8] Use of undefined constant plug_ad_open - assumed 'plug_ad_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\7e9cfe7c30de12c1d61a04fe2984b8a6.php 第 287 行.
+NOTIC: [8] Use of undefined constant plug_ad_open - assumed 'plug_ad_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\7e9cfe7c30de12c1d61a04fe2984b8a6.php 第 287 行.
+NOTIC: [8] Use of undefined constant plug_ad_open - assumed 'plug_ad_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\7e9cfe7c30de12c1d61a04fe2984b8a6.php 第 287 行.
+NOTIC: [8] Use of undefined constant plug_ad_open - assumed 'plug_ad_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\7e9cfe7c30de12c1d61a04fe2984b8a6.php 第 287 行.
+NOTIC: [8] Use of undefined constant plug_ad_open - assumed 'plug_ad_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\7e9cfe7c30de12c1d61a04fe2984b8a6.php 第 287 行.
+NOTIC: [8] Use of undefined constant plug_ad_open - assumed 'plug_ad_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\7e9cfe7c30de12c1d61a04fe2984b8a6.php 第 287 行.
+NOTIC: [8] Use of undefined constant plug_ad_open - assumed 'plug_ad_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\7e9cfe7c30de12c1d61a04fe2984b8a6.php 第 287 行.
+NOTIC: [8] Use of undefined constant plug_ad_open - assumed 'plug_ad_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\7e9cfe7c30de12c1d61a04fe2984b8a6.php 第 287 行.
+NOTIC: [8] Use of undefined constant plug_ad_open - assumed 'plug_ad_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\7e9cfe7c30de12c1d61a04fe2984b8a6.php 第 287 行.
+NOTIC: [8] Use of undefined constant plug_ad_open - assumed 'plug_ad_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\7e9cfe7c30de12c1d61a04fe2984b8a6.php 第 287 行.
+NOTIC: [8] Use of undefined constant plug_ad_open - assumed 'plug_ad_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\7e9cfe7c30de12c1d61a04fe2984b8a6.php 第 287 行.
+NOTIC: [8] Use of undefined constant plug_ad_open - assumed 'plug_ad_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\7e9cfe7c30de12c1d61a04fe2984b8a6.php 第 287 行.
+NOTIC: [8] Use of undefined constant plug_ad_open - assumed 'plug_ad_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\7e9cfe7c30de12c1d61a04fe2984b8a6.php 第 287 行.
+NOTIC: [8] Use of undefined constant plug_ad_open - assumed 'plug_ad_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\7e9cfe7c30de12c1d61a04fe2984b8a6.php 第 287 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.177780s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.177909s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000549s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000859s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000073s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001985s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001190s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001455s ]
+
+[ 2017-03-04T19:39:21+08:00 ] 127.0.0.1 /admin.php/Links/index/se/185
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000129s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000715s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000836s ]
+NOTIC: D方法实例化没找到模型类Home\Model\LinksUrlModel
+NOTIC: [8] Undefined index: page E:\git\cpbbs\www\Admin\Common\Page.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000222s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000331s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.153761s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.153899s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000426s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000052s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000986s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000748s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000924s ]
+
+[ 2017-03-04T19:39:23+08:00 ] 127.0.0.1 /admin.php/Links/index_class/se/36
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+NOTIC: D方法实例化没找到模型类Home\Model\LinksUrlClassModel
+NOTIC: [8] Undefined variable: Id E:\git\cpbbs\www\Admin\Home\Controller\LinksController.class.php 第 176 行.
+NOTIC: [8] Undefined index: page E:\git\cpbbs\www\Admin\Common\Page.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000241s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000359s ]
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 259 行.
+NOTIC: [8] Use of undefined constant lagid - assumed 'lagid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 259 行.
+NOTIC: [8] Use of undefined constant numberid - assumed 'numberid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 259 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 68 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 259 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 260 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 257 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 258 行.
+NOTIC: [8] Use of undefined constant lagid - assumed 'lagid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 258 行.
+NOTIC: [8] Use of undefined constant numberid - assumed 'numberid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 258 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 68 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 258 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 259 行.
+NOTIC: [8] Use of undefined constant lagid - assumed 'lagid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 259 行.
+NOTIC: [8] Use of undefined constant numberid - assumed 'numberid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 259 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 68 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 259 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 260 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 257 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 258 行.
+NOTIC: [8] Use of undefined constant lagid - assumed 'lagid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 258 行.
+NOTIC: [8] Use of undefined constant numberid - assumed 'numberid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 258 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 68 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 258 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 259 行.
+NOTIC: [8] Use of undefined constant lagid - assumed 'lagid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 259 行.
+NOTIC: [8] Use of undefined constant numberid - assumed 'numberid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 259 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 68 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 259 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 260 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 257 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 258 行.
+NOTIC: [8] Use of undefined constant lagid - assumed 'lagid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 258 行.
+NOTIC: [8] Use of undefined constant numberid - assumed 'numberid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 258 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 68 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\5ef7f499c53e3c1fcf1beb5a4f20f4fe.php 第 258 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.158710s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.158850s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000419s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000043s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000974s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000585s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000760s ]
+
+[ 2017-03-04T19:39:24+08:00 ] 127.0.0.1 /admin.php/Links/index/se/185
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000307s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000766s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000982s ]
+NOTIC: D方法实例化没找到模型类Home\Model\LinksUrlModel
+NOTIC: [8] Undefined index: page E:\git\cpbbs\www\Admin\Common\Page.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000227s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000355s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.163790s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.163922s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000694s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000783s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000105s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002015s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001048s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001319s ]
+
+[ 2017-03-04T19:39:26+08:00 ] 127.0.0.1 /admin.php/Tuku/heibai/se/202
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000672s ]
+NOTIC: D方法实例化没找到模型类Home\Model\HeibaiModel
+NOTIC: [8] Undefined index: page E:\git\cpbbs\www\Admin\Common\Page.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000290s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000428s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.259096s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.259226s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000445s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000571s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000054s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001277s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000951s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001173s ]
+
+[ 2017-03-04T19:39:27+08:00 ] 127.0.0.1 /admin.php/Tuku/caise/se/201
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000157s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000673s ]
+NOTIC: D方法实例化没找到模型类Home\Model\TukuModel
+NOTIC: [8] Undefined index: page E:\git\cpbbs\www\Admin\Common\Page.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000228s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000340s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.156280s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.156411s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000455s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000057s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000931s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001134s ]
+
+[ 2017-03-04T19:39:28+08:00 ] 127.0.0.1 /admin.php/Tuku/qs/se/203
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000553s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000694s ]
+NOTIC: D方法实例化没找到模型类Home\Model\QsModel
+NOTIC: [8] Undefined index: page E:\git\cpbbs\www\Admin\Common\Page.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000221s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000380s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.186696s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.186816s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000511s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000050s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001353s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000853s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001049s ]
+
+[ 2017-03-04T19:39:31+08:00 ] 127.0.0.1 /admin.php/Article/index_class/se/9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000534s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000682s ]
+NOTIC: D方法实例化没找到模型类Home\Model\ArticleClassModel
+NOTIC: [8] Undefined variable: Id E:\git\cpbbs\www\Admin\Home\Controller\ArticleController.class.php 第 185 行.
+NOTIC: [8] Undefined index: page E:\git\cpbbs\www\Admin\Common\Page.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000297s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000434s ]
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 259 行.
+NOTIC: [8] Use of undefined constant lagid - assumed 'lagid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 259 行.
+NOTIC: [8] Use of undefined constant numberid - assumed 'numberid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 259 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 68 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 259 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 260 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 257 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 258 行.
+NOTIC: [8] Use of undefined constant lagid - assumed 'lagid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 258 行.
+NOTIC: [8] Use of undefined constant numberid - assumed 'numberid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 258 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 68 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 258 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 259 行.
+NOTIC: [8] Use of undefined constant lagid - assumed 'lagid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 259 行.
+NOTIC: [8] Use of undefined constant numberid - assumed 'numberid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 259 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 68 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 259 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 260 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 257 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 258 行.
+NOTIC: [8] Use of undefined constant lagid - assumed 'lagid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 258 行.
+NOTIC: [8] Use of undefined constant numberid - assumed 'numberid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 258 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 68 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 258 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 259 行.
+NOTIC: [8] Use of undefined constant lagid - assumed 'lagid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 259 行.
+NOTIC: [8] Use of undefined constant numberid - assumed 'numberid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 259 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 68 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 259 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 260 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 257 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 258 行.
+NOTIC: [8] Use of undefined constant lagid - assumed 'lagid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 258 行.
+NOTIC: [8] Use of undefined constant numberid - assumed 'numberid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 258 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 68 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 258 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 259 行.
+NOTIC: [8] Use of undefined constant lagid - assumed 'lagid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 259 行.
+NOTIC: [8] Use of undefined constant numberid - assumed 'numberid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 259 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 68 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 259 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 260 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 257 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 258 行.
+NOTIC: [8] Use of undefined constant lagid - assumed 'lagid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 258 行.
+NOTIC: [8] Use of undefined constant numberid - assumed 'numberid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 258 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 68 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 258 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 259 行.
+NOTIC: [8] Use of undefined constant lagid - assumed 'lagid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 259 行.
+NOTIC: [8] Use of undefined constant numberid - assumed 'numberid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 259 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 68 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 259 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 260 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 257 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 258 行.
+NOTIC: [8] Use of undefined constant lagid - assumed 'lagid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 258 行.
+NOTIC: [8] Use of undefined constant numberid - assumed 'numberid' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 258 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 68 行.
+NOTIC: [8] Use of undefined constant sorting - assumed 'sorting' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\a56da67e5abe00226d98812c6b7c1500.php 第 258 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.147469s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.147601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000411s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000046s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001142s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000974s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001251s ]
+
+[ 2017-03-04T19:39:32+08:00 ] 127.0.0.1 /admin.php/Article/index/se/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000797s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000934s ]
+NOTIC: D方法实例化没找到模型类Home\Model\ArticleModel
+NOTIC: [8] Undefined index: page E:\git\cpbbs\www\Admin\Common\Page.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000224s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000333s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Common\Common.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.152555s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.152683s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000565s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000054s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001439s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000994s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001197s ]
+
+[ 2017-03-04T19:39:34+08:00 ] 127.0.0.1 /admin.php/Kaijiang/info_add/se/193
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000160s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000925s ]
+NOTIC: [8] Undefined index: Action E:\git\cpbbs\www\Admin\Home\Controller\KaijiangController.class.php 第 65 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000319s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000480s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.157614s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.157744s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000554s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000042s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001398s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000877s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-03-04T19:39:35+08:00 ] 127.0.0.1 /admin.php/Kaijiang/index/se/192
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000552s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+NOTIC: D方法实例化没找到模型类Home\Model\KaijiangModel
+NOTIC: [8] Undefined index: page E:\git\cpbbs\www\Admin\Common\Page.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000268s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000403s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.198526s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.198697s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000576s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000525s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000056s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000850s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001031s ]
+
+[ 2017-03-04T19:39:36+08:00 ] 127.0.0.1 /admin.php/Kaijiang/kjms/se/196
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000812s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000186s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000298s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.312832s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.312960s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000537s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000681s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000043s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001484s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000967s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001163s ]
+
+[ 2017-03-04T19:39:38+08:00 ] 127.0.0.1 /admin.php/Sys/sys/se/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000535s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000674s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000438s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000683s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.194091s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.194221s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000497s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000450s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000045s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001254s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000990s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001175s ]
+
+[ 2017-03-04T19:39:39+08:00 ] 127.0.0.1 /admin.php/Sys/export/se/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000943s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000265s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000402s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.205745s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.205875s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000595s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000595s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000062s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001511s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001200s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001411s ]
+
+[ 2017-03-04T19:39:40+08:00 ] 127.0.0.1 /admin.php/Sys/sys/se/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000162s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000786s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000928s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000210s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000317s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.132823s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.132955s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000594s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000548s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000044s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001399s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001175s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001328s ]
+
+[ 2017-03-04T19:39:44+08:00 ] 127.0.0.1 /admin.php/Sys/export/se/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000527s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000219s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000359s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.144528s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.144691s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000489s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000062s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001036s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000648s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000833s ]
+
+[ 2017-03-04T19:39:45+08:00 ] 127.0.0.1 /admin.php/Sys/export/se/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000161s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000521s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000659s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000228s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000338s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.143887s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.144009s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000455s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000061s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001049s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000631s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000767s ]
+
+[ 2017-03-04T19:39:46+08:00 ] 127.0.0.1 /admin.php/Sys/admin_list/se/15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000550s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000686s ]
+NOTIC: [8] Undefined variable: map E:\git\cpbbs\www\Admin\Home\Controller\SysController.class.php 第 90 行.
+NOTIC: [8] Undefined variable: map E:\git\cpbbs\www\Admin\Home\Controller\SysController.class.php 第 93 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\git\cpbbs\www\Admin\Home\Controller\SysController.class.php 第 93 行.
+NOTIC: [8] Undefined variable: map E:\git\cpbbs\www\Admin\Home\Controller\SysController.class.php 第 98 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000218s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000366s ]
+NOTIC: [8] Use of undefined constant admin_open - assumed 'admin_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\291d5785c423eec82e358a6fad386fda.php 第 297 行.
+NOTIC: [8] Use of undefined constant admin_open - assumed 'admin_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\291d5785c423eec82e358a6fad386fda.php 第 297 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.153340s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.153468s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000443s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000046s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000990s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000615s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000739s ]
+
+[ 2017-03-04T19:39:47+08:00 ] 127.0.0.1 /admin.php/Sys/cache/se/194
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000168s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000665s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000220s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000349s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.133816s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.133967s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000687s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000045s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001359s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000892s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001032s ]
+
+[ 2017-03-04T19:39:50+08:00 ] 127.0.0.1 /admin.php/Home/Sys/runtime
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000159s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000851s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000996s ]
+
+[ 2017-03-04T19:39:52+08:00 ] 127.0.0.1 /admin.php/Home/Administrator/runtime
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000129s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000721s ]
+

@@ -1,0 +1,27 @@
+.footer-button button {
+    border: none;
+    color: white;
+    background: red;
+}
+
+#close {
+    font-weight: inherit;
+}
+
+.dataBox {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#init-fontweiget {
+    font-weight: inherit;
+}
+
+#task-view .itemInput {
+    width: 85%;
+    height: 2rem;
+    color: #4d4d4d;
+    border-bottom: 1px solid #9e9e9e;
+    margin: 25px;
+}

@@ -1,0 +1,17 @@
+[ 2017-03-07T19:31:28+08:00 ] 127.0.0.1 /admin.php/Home/Sys/runtime
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000243s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000683s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000790s ]
+NOTIC: [8] Undefined index: aid E:\git\cpbbs\www\Admin\Common\Controller\AuthController.class.php 第 24 行.
+
+[ 2017-03-07T19:31:29+08:00 ] 127.0.0.1 /admin.php/Home/Administrator/runtime
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001467s ]
+

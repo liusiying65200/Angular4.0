@@ -1,0 +1,622 @@
+[ 2017-03-01T13:30:48+08:00 ] 127.0.0.1 /admin.php/Administrator/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000272s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001384s ]
+
+[ 2017-03-01T13:30:48+08:00 ] 127.0.0.1 /admin.php/Administrator/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000175s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000871s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000234s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009964s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010081s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000492s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.022433s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000038s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.023214s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000675s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000786s ]
+
+[ 2017-03-01T13:30:57+08:00 ] 127.0.0.1 /admin.php/Administrator/runlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.023401s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.023636s ]
+
+[ 2017-03-01T13:31:03+08:00 ] 127.0.0.1 /admin.php/Administrator/runlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001670s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001856s ]
+
+[ 2017-03-01T13:31:10+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000263s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000722s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000864s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000254s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000432s ]
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.357585s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.357783s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001124s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000793s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000178s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002545s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001257s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001629s ]
+
+[ 2017-03-01T13:31:16+08:00 ] 127.0.0.1 /admin.php/Administrator/logout
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000135s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000599s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000720s ]
+
+[ 2017-03-01T13:31:16+08:00 ] 127.0.0.1 /admin.php/Administrator/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001326s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000197s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000616s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016142s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016326s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000552s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000035s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001363s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000830s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000946s ]
+
+[ 2017-03-01T13:31:20+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001099s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001328s ]
+
+[ 2017-03-01T13:31:20+08:00 ] 127.0.0.1 /admin.php/Home/Administrator/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000265s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001406s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000171s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000395s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014211s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014373s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000532s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000534s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000034s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001346s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000812s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000978s ]
+
+[ 2017-03-01T13:31:24+08:00 ] 127.0.0.1 /admin.php/Administrator/runlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000189s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000790s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000914s ]
+
+[ 2017-03-01T13:31:29+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000260s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001538s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002075s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000208s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000326s ]
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.165939s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.166055s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000587s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000589s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000047s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001450s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001157s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001365s ]
+
+[ 2017-03-01T14:46:58+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+
+[ 2017-03-01T14:46:58+08:00 ] 127.0.0.1 /admin.php/Home/Administrator/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000238s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000960s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000105s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000256s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.040031s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040165s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000481s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.014577s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000043s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015367s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000836s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000968s ]
+
+[ 2017-03-01T14:47:12+08:00 ] 127.0.0.1 /admin.php/Administrator/runlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000209s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000925s ]
+
+[ 2017-03-01T14:47:14+08:00 ] 127.0.0.1 /admin.php/Administrator/runlogin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000183s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000634s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000758s ]
+
+[ 2017-03-01T14:47:22+08:00 ] 127.0.0.1 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000287s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001518s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000556s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000852s ]
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+NOTIC: [8] Undefined index: se E:\git\cpbbs\www\Admin\Runtime\Cache\Home\55843b8195cd32862e5dfa640df6e51d.php 第 193 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.258492s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.258734s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000946s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000947s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000087s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002393s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001390s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001698s ]
+
+[ 2017-03-01T14:47:25+08:00 ] 127.0.0.1 /admin.php/Caiji/kj/se/246
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000276s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001104s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001313s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000711s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001287s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.248621s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.248895s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000926s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.001106s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000085s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002562s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001290s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002161s ]
+
+[ 2017-03-01T14:47:27+08:00 ] 127.0.0.1 /admin.php/Home/Caiji/zxkj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000269s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001567s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000161s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000375s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048211s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.048476s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000899s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.002040s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000069s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003482s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001596s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001841s ]
+
+[ 2017-03-01T14:47:33+08:00 ] 127.0.0.1 /admin.php/Home/Caiji/kjcj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000267s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 19 E:\git\cpbbs\www\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 23 E:\git\cpbbs\www\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID yearCondition already defined in Entity, line: 395 E:\git\cpbbs\www\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : option in Entity, line: 717 E:\git\cpbbs\www\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag article invalid in Entity, line: 757 E:\git\cpbbs\www\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 759 E:\git\cpbbs\www\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 3455 E:\git\cpbbs\www\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 3457 E:\git\cpbbs\www\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag article invalid in Entity, line: 3487 E:\git\cpbbs\www\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 3489 E:\git\cpbbs\www\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 3528 E:\git\cpbbs\www\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: D方法实例化没找到模型类Home\Model\KaijiangModel
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Controller\CaijiController.class.php 第 111 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000986s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001196s ]
+
+[ 2017-03-01T14:53:25+08:00 ] 127.0.0.1 /admin.php/Home/Caiji/zxkj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000262s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001673s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000196s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000463s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.026704s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026972s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003008s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.003190s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000070s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006958s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001312s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001531s ]
+
+[ 2017-03-01T14:53:35+08:00 ] 127.0.0.1 /admin.php/Home/Caiji/kjcj
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000299s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001032s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001303s ]
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 19 E:\git\cpbbs\www\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 23 E:\git\cpbbs\www\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID yearCondition already defined in Entity, line: 395 E:\git\cpbbs\www\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : option in Entity, line: 717 E:\git\cpbbs\www\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag article invalid in Entity, line: 757 E:\git\cpbbs\www\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 759 E:\git\cpbbs\www\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 3455 E:\git\cpbbs\www\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 3457 E:\git\cpbbs\www\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag article invalid in Entity, line: 3487 E:\git\cpbbs\www\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 3489 E:\git\cpbbs\www\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 3528 E:\git\cpbbs\www\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: D方法实例化没找到模型类Home\Model\KaijiangModel
+NOTIC: [8] Use of undefined constant title - assumed 'title' E:\git\cpbbs\www\Admin\Home\Controller\CaijiController.class.php 第 111 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000854s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001017s ]
+
+[ 2017-03-01T14:58:28+08:00 ] 127.0.0.1 /admin.php/Sys/sys/se/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000965s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000390s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000605s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.217407s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.217613s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000538s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000083s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001462s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000976s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001159s ]
+
+[ 2017-03-01T14:59:28+08:00 ] 127.0.0.1 /admin.php/Sys/runsys
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001080s ]
+
+[ 2017-03-01T14:59:30+08:00 ] 127.0.0.1 /admin.php/Sys/runsys
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000181s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001103s ]
+
+[ 2017-03-01T14:59:33+08:00 ] 127.0.0.1 /admin.php/Sys/export/se/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000978s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001216s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000228s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000356s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.204785s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.204992s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000691s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000737s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000121s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001937s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001451s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001771s ]
+
+[ 2017-03-01T14:59:34+08:00 ] 127.0.0.1 /admin.php/Sys/sys/se/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000167s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000896s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001090s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000284s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000445s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.149677s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.149850s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000620s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000081s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001469s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000816s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000972s ]
+
+[ 2017-03-01T14:59:37+08:00 ] 127.0.0.1 /admin.php/Sys/export/se/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000259s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000779s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000363s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000777s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.198564s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.198734s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000775s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000110s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001936s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000979s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001167s ]
+
+[ 2017-03-01T14:59:38+08:00 ] 127.0.0.1 /admin.php/Sys/admin_list/se/15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000280s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000731s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000882s ]
+NOTIC: [8] Undefined variable: map E:\git\cpbbs\www\Admin\Home\Controller\SysController.class.php 第 90 行.
+NOTIC: [8] Undefined variable: map E:\git\cpbbs\www\Admin\Home\Controller\SysController.class.php 第 93 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\git\cpbbs\www\Admin\Home\Controller\SysController.class.php 第 93 行.
+NOTIC: [8] Undefined variable: map E:\git\cpbbs\www\Admin\Home\Controller\SysController.class.php 第 98 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000217s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000358s ]
+NOTIC: [8] Use of undefined constant admin_open - assumed 'admin_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\291d5785c423eec82e358a6fad386fda.php 第 297 行.
+NOTIC: [8] Use of undefined constant admin_open - assumed 'admin_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\291d5785c423eec82e358a6fad386fda.php 第 297 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.204704s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.204832s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000803s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000750s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000077s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002047s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001455s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001718s ]
+
+[ 2017-03-01T14:59:40+08:00 ] 127.0.0.1 /admin.php/Sys/cache/se/194
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000250s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000774s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000969s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000197s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000347s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.161442s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.161621s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000638s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000076s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001713s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001016s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001191s ]
+
+[ 2017-03-01T14:59:41+08:00 ] 127.0.0.1 /admin.php/Sys/admin_list/se/15
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000248s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001025s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001278s ]
+NOTIC: [8] Undefined variable: map E:\git\cpbbs\www\Admin\Home\Controller\SysController.class.php 第 90 行.
+NOTIC: [8] Undefined variable: map E:\git\cpbbs\www\Admin\Home\Controller\SysController.class.php 第 93 行.
+NOTIC: [2] Invalid argument supplied for foreach() E:\git\cpbbs\www\Admin\Home\Controller\SysController.class.php 第 93 行.
+NOTIC: [8] Undefined variable: map E:\git\cpbbs\www\Admin\Home\Controller\SysController.class.php 第 98 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000364s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000562s ]
+NOTIC: [8] Use of undefined constant admin_open - assumed 'admin_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\291d5785c423eec82e358a6fad386fda.php 第 297 行.
+NOTIC: [8] Use of undefined constant admin_open - assumed 'admin_open' E:\git\cpbbs\www\Admin\Runtime\Cache\Home\291d5785c423eec82e358a6fad386fda.php 第 297 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.231476s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.231681s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000701s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001869s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001024s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001268s ]
+
+[ 2017-03-01T14:59:48+08:00 ] 127.0.0.1 /admin.php/Sys/cache/se/194
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000147s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000757s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000939s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000194s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000325s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.161764s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.161954s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000737s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000722s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000074s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001942s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001012s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001243s ]
+

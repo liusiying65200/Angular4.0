@@ -1,0 +1,95 @@
+<include file='index:header' />
+<link href="__PUBLIC__/css/common.css" rel="stylesheet" type="text/css"/>
+<link href="__PUBLIC__/css/themes/default/default.css" rel="stylesheet" type="text/css" />
+<div class="main-container" id="main-container">
+
+
+	<include file='index:left' />
+
+	<div class="main-content">
+		<div class="main-content-inner">
+			<div class="page-content">
+
+				<div class="page-header">
+					<h1>
+						您当前操作
+						<small>
+							<i class="ace-icon fa fa-angle-double-right"></i>
+							修改网址
+						</small>
+					</h1>
+				</div>
+
+				<div class="row">
+					<div class="col-xs-12">
+						<div>
+							<div class="formbody">
+								<div id="msg">
+									<form id="addForm">
+									<table class="page_table" cellpadding="0" cellspacing="1">
+										<tr>
+											<td width="10%" class="td_left">公告标题：</td>
+											<td width="90%" class="left"><input name="title" style="width:350px;" class="biankuan" placeholder="请输入标题名称"/></td>
+										</tr>
+
+										<tr>
+											<td width="10%" class="td_left">链接地址：</td>
+											<td width="90%" class="left"><input  type="text" name="url" value="" class="biankuan" style="width:350px;"/></td>
+										</tr>
+										<tr>
+											<td width="10%" class="td_left">公告类型：</td>
+											<td width="90%" class="left">
+												<select name="type">
+													<option value=0>固定型公告</option>
+													<option value=1>流动型公告</option>
+												</select>
+											</td>
+										</tr>
+										<tr>
+											<td>
+											</td>
+											<td align="left">
+												<input type="button"  value="提交内容" class="tijiao_input"  onClick="add()"/>
+											</td>
+										</tr>
+									</table>
+									</form>
+								</div>
+								<div>
+								</div>
+							</div>
+						</div>
+
+						<include file='index:header_nav' />
+
+					</div><!-- /.page-content -->
+				</div>
+			</div><!-- /.main-content -->
+		</div>
+		<include file='index:footer' />
+	</div>
+	<script src="__PUBLIC__/js/jquery.min.js"></script>
+
+	<script>
+        //=======================获取数据
+        function add(){
+            jQuery.ajax({
+                url: "",
+                dataType:"json",
+                type:"POST",
+                data:$('#addForm').serialize(),
+                success:function(data) {
+                    if(data.status==1){
+                        layer.msg(data.info);
+                        location.href='__CONTROLLER__';
+					}else{
+                        layer.msg(data.info);
+					}
+
+                }
+            });
+
+        }
+	</script>
+	</body>
+	</html>

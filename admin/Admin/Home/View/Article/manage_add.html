@@ -1,0 +1,124 @@
+<include file='index:header' />
+<link href="__PUBLIC__/css/common.css" rel="stylesheet" type="text/css"/>
+<link href="__PUBLIC__/css/themes/default/default.css" rel="stylesheet" type="text/css" />
+<div class="main-container" id="main-container">
+
+
+    <include file='index:left' />
+
+    <div class="main-content">
+        <div class="main-content-inner">
+            <div class="page-content">
+
+                <div class="page-header">
+                    <h1>
+                        您当前操作
+                        <small>
+                            <i class="ace-icon fa fa-angle-double-right"></i>
+                            添加文章
+                        </small>
+                    </h1>
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div>
+                            <div class="formbody">
+                                <div id="msg">
+                                    <form id="addForm">
+                                        <table class="page_table" cellpadding="0" cellspacing="1">
+                                            <tr>
+                                                <td width="10%" class="td_left">标题：</td>
+                                                <td width="90%" class="left"><input name="title"  style="width:350px;" class="biankuan" placeholder="请输入标题名称"/></td>
+                                            </tr>
+
+                                            <tr>
+                                                <td width="10%" class="td_left">标题缩写：</td>
+                                                <td width="90%" class="left"><input  type="text" name="smalltitle" value="" class="biankuan" style="width:350px;"/></td>
+                                            </tr>
+                                            <tr>
+                                                <td width="10%" class="td_left">类型：</td>
+                                                <td width="90%" class="left">
+                                                    <select id='fid' name="fid">
+                                                        <option id='fid_1' value=1>高手贴</option>
+                                                        <option id='fid_2'  value=2>精英榜</option>
+                                                        <option id='fid_3' value=3>原创公式</option>
+                                                        <option id='fid_4' value=4>玄机解密</option>
+                                                    </select>
+                                                </td>
+                                            </tr>
+                                            <input type="hidden" id='fname' name="fname" value="">
+                                            <tr>
+                                                <td width="10%" class="td_left">作者：</td>
+                                                <td width="90%" class="left"><input  type="text" name="author" value="" class="biankuan" style="width:350px;"/></td>
+                                            </tr>
+                                            <tr>
+                                                <td width="10%" class="td_left">热度：</td>
+                                                <td width="90%" class="left"><input  type="text" name="hits" value="" class="biankuan" style="width:350px;"/></td>
+                                            </tr>
+                                            <tr>
+                                                <td width="10%" class="td_left">图片来源：</td>
+                                                <td width="90%" class="left"><input  type="text" name="picurl" value="" class="biankuan" style="width:350px;"/></td>
+                                            </tr>
+                                            <tr>
+                                                <td>内容：</td>
+                                                <td colspan="2" class="left"><textarea id="editor_id" name="content" style="width:700px;height:300px;"></textarea></td>
+                                            </tr>
+
+                                            <tr>
+                                                <td>
+                                                </td>
+                                                <td align="left">
+                                                    <input type="button"  value="提交内容" class="tijiao_input"  onClick="add()"/>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </form>
+                                </div>
+                                <div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <include file='index:header_nav' />
+
+                    </div><!-- /.page-content -->
+                </div>
+            </div><!-- /.main-content -->
+        </div>
+        <include file='index:footer' />
+    </div>
+    <script src="__PUBLIC__/js/assets/js/jquery.js"></script>
+    <!--<script src="__PUBLIC__/js/assets/js/bootstrap.js"></script>-->
+    <!--<script src="__PUBLIC__/js/assets/js/ace.js"></script>-->
+    <!--<script src="__PUBLIC__/js/assets/js/ace-elements.js"></script>-->
+    <!--<script src="__PUBLIC__/js/assets/js/bootstrap-wysiwyg.js"></script>-->
+    <!--<script src="__PUBLIC__/js/assets/js/jquery.hotkeys.js"></script>-->
+
+
+
+    <script>
+        //=======================获取数据
+        function add(){
+            $('#fname').val($('#fid_'+$('#fid').val()).html());
+            jQuery.ajax({
+                url: "",
+                dataType:"json",
+                type:"POST",
+                data:$('#addForm').serialize(),
+                success:function(data) {
+                    if(data.status==1){
+                        layer.msg(data.info);
+                        location.href='__CONTROLLER__/manage';
+                    }else{
+                        layer.msg(data.info);
+                    }
+
+                }
+            });
+
+        }
+
+    </script>
+    </body>
+    </html>

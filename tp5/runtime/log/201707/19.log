@@ -1,0 +1,823 @@
+[ 2017-07-19T01:09:31+08:00 ] ::1 ::1 GET /
+[ log ] tp5.cn/ [运行时间：0.050910s][吞吐率：19.64req/s] [内存消耗：1,788.44kb] [文件加载：36]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Redis' not found[/Applications/MAMP/htdocs/tp5/thinkphp/library/think/Controller.php:70]
+
+---------------------------------------------------------------
+[ 2017-07-19T01:34:33+08:00 ] ::1 ::1 GET /
+[ log ] tp5.cn/ [运行时间：0.037100s][吞吐率：26.95req/s] [内存消耗：1,720.39kb] [文件加载：34]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ /Applications/MAMP/htdocs/tp5/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /Applications/MAMP/htdocs/tp5/public/../application/admin/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-19T01:34:34+08:00 ] ::1 ::1 GET /welcome/start?_=1500399273993
+[ log ] tp5.cn/welcome/start?_=1500399273993 [运行时间：0.023292s][吞吐率：42.93req/s] [内存消耗：1,320.29kb] [文件加载：24]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'welcome',
+    1 => 'start',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://tp5.cn/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+  '_' => '1500399273993',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-19T01:34:34+08:00 ] ::1 ::1 GET /index.php/admin/index/getMenu?type=public
+[ log ] tp5.cn/index.php/admin/index/getMenu?type=public [运行时间：0.046227s][吞吐率：21.63req/s] [内存消耗：2,608.65kb] [文件加载：40]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'getMenu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://tp5.cn/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'public',
+)
+[ info ] [ RUN ] app\admin\controller\Index->getMenu[ /Applications/MAMP/htdocs/tp5/application/admin/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused[/Applications/MAMP/htdocs/tp5/thinkphp/library/think/db/Connection.php:287]
+
+---------------------------------------------------------------
+[ 2017-07-19T01:34:41+08:00 ] ::1 ::1 GET /static/js/bootstrap/js/bootstrap-tagsinput.min.js.map
+[ log ] tp5.cn/static/js/bootstrap/js/bootstrap-tagsinput.min.js.map [运行时间：0.019214s][吞吐率：52.04req/s] [内存消耗：1,319.89kb] [文件加载：24]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'js',
+    2 => 'bootstrap',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+  'js' => 'bootstrap-tagsinput.min.js.map',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-19T01:34:41+08:00 ] ::1 ::1 GET /static/js/bootstrap/css/bootstrap.min.css.map
+[ log ] tp5.cn/static/js/bootstrap/css/bootstrap.min.css.map [运行时间：0.023949s][吞吐率：41.76req/s] [内存消耗：1,319.98kb] [文件加载：24]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'js',
+    2 => 'bootstrap',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+  'css' => 'bootstrap.min.css.map',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-19T01:40:49+08:00 ] ::1 ::1 GET /
+[ log ] tp5.cn/ [运行时间：0.028523s][吞吐率：35.06req/s] [内存消耗：1,720.63kb] [文件加载：34]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ /Applications/MAMP/htdocs/tp5/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /Applications/MAMP/htdocs/tp5/public/../application/admin/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-19T01:40:49+08:00 ] ::1 ::1 GET /static/js/bootstrap/css/bootstrap.min.css.map
+[ log ] tp5.cn/static/js/bootstrap/css/bootstrap.min.css.map [运行时间：0.020412s][吞吐率：48.99req/s] [内存消耗：1,319.91kb] [文件加载：24]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'js',
+    2 => 'bootstrap',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+  'css' => 'bootstrap.min.css.map',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-19T01:40:49+08:00 ] ::1 ::1 GET /static/js/bootstrap/js/bootstrap-tagsinput.min.js.map
+[ log ] tp5.cn/static/js/bootstrap/js/bootstrap-tagsinput.min.js.map [运行时间：0.018734s][吞吐率：53.38req/s] [内存消耗：1,319.94kb] [文件加载：24]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'js',
+    2 => 'bootstrap',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+  'js' => 'bootstrap-tagsinput.min.js.map',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-19T01:40:49+08:00 ] ::1 ::1 GET /welcome/start?_=1500399649233
+[ log ] tp5.cn/welcome/start?_=1500399649233 [运行时间：0.021617s][吞吐率：46.26req/s] [内存消耗：1,320.57kb] [文件加载：24]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'welcome',
+    1 => 'start',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'accept' => 'text/html, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://tp5.cn/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+  '_' => '1500399649233',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-19T01:40:49+08:00 ] ::1 ::1 GET /index.php/admin/index/getMenu?type=public
+[ log ] tp5.cn/index.php/admin/index/getMenu?type=public [运行时间：0.048662s][吞吐率：20.55req/s] [内存消耗：2,609.24kb] [文件加载：40]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'getMenu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://tp5.cn/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'public',
+)
+[ info ] [ RUN ] app\admin\controller\Index->getMenu[ /Applications/MAMP/htdocs/tp5/application/admin/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused[/Applications/MAMP/htdocs/tp5/thinkphp/library/think/db/Connection.php:287]
+
+---------------------------------------------------------------
+[ 2017-07-19T01:40:58+08:00 ] ::1 ::1 GET /
+[ log ] tp5.cn/ [运行时间：0.028240s][吞吐率：35.41req/s] [内存消耗：1,720.63kb] [文件加载：34]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ /Applications/MAMP/htdocs/tp5/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /Applications/MAMP/htdocs/tp5/public/../application/admin/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-19T01:40:59+08:00 ] ::1 ::1 GET /static/js/bootstrap/css/bootstrap.min.css.map
+[ log ] tp5.cn/static/js/bootstrap/css/bootstrap.min.css.map [运行时间：0.022175s][吞吐率：45.10req/s] [内存消耗：1,319.98kb] [文件加载：24]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'js',
+    2 => 'bootstrap',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+  'css' => 'bootstrap.min.css.map',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-19T01:40:59+08:00 ] ::1 ::1 GET /static/js/bootstrap/js/bootstrap-tagsinput.min.js.map
+[ log ] tp5.cn/static/js/bootstrap/js/bootstrap-tagsinput.min.js.map [运行时间：0.018721s][吞吐率：53.42req/s] [内存消耗：1,319.89kb] [文件加载：24]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'js',
+    2 => 'bootstrap',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+  'js' => 'bootstrap-tagsinput.min.js.map',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-19T01:40:59+08:00 ] ::1 ::1 GET /welcome/start?_=1500399658848
+[ log ] tp5.cn/welcome/start?_=1500399658848 [运行时间：0.023642s][吞吐率：42.30req/s] [内存消耗：1,320.34kb] [文件加载：24]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'welcome',
+    1 => 'start',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'accept' => 'text/html, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://tp5.cn/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+  '_' => '1500399658848',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-19T01:40:59+08:00 ] ::1 ::1 GET /index.php/admin/index/getMenu?type=public
+[ log ] tp5.cn/index.php/admin/index/getMenu?type=public [运行时间：0.051275s][吞吐率：19.50req/s] [内存消耗：2,609.23kb] [文件加载：40]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'getMenu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'pragma' => 'no-cache',
+  'cache-control' => 'no-cache',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://tp5.cn/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'public',
+)
+[ info ] [ RUN ] app\admin\controller\Index->getMenu[ /Applications/MAMP/htdocs/tp5/application/admin/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused[/Applications/MAMP/htdocs/tp5/thinkphp/library/think/db/Connection.php:287]
+
+---------------------------------------------------------------
+[ 2017-07-19T01:52:49+08:00 ] ::1 ::1 GET /
+[ log ] tp5.cn/ [运行时间：0.051250s][吞吐率：19.51req/s] [内存消耗：1,719.86kb] [文件加载：34]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ /Applications/MAMP/htdocs/tp5/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /Applications/MAMP/htdocs/tp5/public/../application/admin/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-19T01:52:50+08:00 ] ::1 ::1 GET /welcome/start?_=1500400369588
+[ log ] tp5.cn/welcome/start?_=1500400369588 [运行时间：0.021441s][吞吐率：46.64req/s] [内存消耗：1,320.24kb] [文件加载：24]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'welcome',
+    1 => 'start',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://tp5.cn/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+  '_' => '1500400369588',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-19T01:52:50+08:00 ] ::1 ::1 GET /index.php/admin/index/getMenu?type=public
+[ log ] tp5.cn/index.php/admin/index/getMenu?type=public [运行时间：0.061690s][吞吐率：16.21req/s] [内存消耗：2,608.94kb] [文件加载：40]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'getMenu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://tp5.cn/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'public',
+)
+[ info ] [ RUN ] app\admin\controller\Index->getMenu[ /Applications/MAMP/htdocs/tp5/application/admin/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused[/Applications/MAMP/htdocs/tp5/thinkphp/library/think/db/Connection.php:287]
+
+---------------------------------------------------------------
+[ 2017-07-19T01:53:01+08:00 ] ::1 ::1 GET /static/js/bootstrap/js/bootstrap-tagsinput.min.js.map
+[ log ] tp5.cn/static/js/bootstrap/js/bootstrap-tagsinput.min.js.map [运行时间：0.019520s][吞吐率：51.23req/s] [内存消耗：1,319.89kb] [文件加载：24]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'js',
+    2 => 'bootstrap',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+  'js' => 'bootstrap-tagsinput.min.js.map',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-19T01:53:01+08:00 ] ::1 ::1 GET /static/js/bootstrap/css/bootstrap.min.css.map
+[ log ] tp5.cn/static/js/bootstrap/css/bootstrap.min.css.map [运行时间：0.017782s][吞吐率：56.24req/s] [内存消耗：1,319.88kb] [文件加载：24]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'js',
+    2 => 'bootstrap',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+  'css' => 'bootstrap.min.css.map',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-19T01:53:51+08:00 ] ::1 ::1 GET /
+[ log ] tp5.cn/ [运行时间：0.037404s][吞吐率：26.74req/s] [内存消耗：1,720.39kb] [文件加载：34]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'max-age=0',
+  'upgrade-insecure-requests' => '1',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ RUN ] app\admin\controller\Index->index[ /Applications/MAMP/htdocs/tp5/application/admin/controller/Index.php ]
+[ info ] [ VIEW ] /Applications/MAMP/htdocs/tp5/public/../application/admin/view/index/index.html [ array (
+) ]
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-19T01:53:52+08:00 ] ::1 ::1 GET /welcome/start?_=1500400431997
+[ log ] tp5.cn/welcome/start?_=1500400431997 [运行时间：0.020336s][吞吐率：49.17req/s] [内存消耗：1,320.24kb] [文件加载：24]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'welcome',
+    1 => 'start',
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'accept' => 'text/html, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://tp5.cn/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+  '_' => '1500400431997',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-19T01:53:52+08:00 ] ::1 ::1 GET /index.php/admin/index/getMenu?type=public
+[ log ] tp5.cn/index.php/admin/index/getMenu?type=public [运行时间：0.053402s][吞吐率：18.73req/s] [内存消耗：2,608.94kb] [文件加载：40]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'admin',
+    1 => 'index',
+    2 => 'getMenu',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'accept' => 'application/json, text/javascript, */*; q=0.01',
+  'x-requested-with' => 'XMLHttpRequest',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'referer' => 'http://tp5.cn/',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+  'type' => 'public',
+)
+[ info ] [ RUN ] app\admin\controller\Index->getMenu[ /Applications/MAMP/htdocs/tp5/application/admin/controller/Index.php ]
+[ info ] [ DB ] INIT mysql
+[ info ] [ LOG ] INIT File
+[ error ] [2002]SQLSTATE[HY000] [2002] Connection refused[/Applications/MAMP/htdocs/tp5/thinkphp/library/think/db/Connection.php:287]
+
+---------------------------------------------------------------
+[ 2017-07-19T01:53:55+08:00 ] ::1 ::1 GET /static/js/bootstrap/js/bootstrap-tagsinput.min.js.map
+[ log ] tp5.cn/static/js/bootstrap/js/bootstrap-tagsinput.min.js.map [运行时间：0.019196s][吞吐率：52.09req/s] [内存消耗：1,319.89kb] [文件加载：24]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'js',
+    2 => 'bootstrap',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+  'js' => 'bootstrap-tagsinput.min.js.map',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-19T01:53:55+08:00 ] ::1 ::1 GET /static/js/bootstrap/css/bootstrap.min.css.map
+[ log ] tp5.cn/static/js/bootstrap/css/bootstrap.min.css.map [运行时间：0.017789s][吞吐率：56.21req/s] [内存消耗：1,319.88kb] [文件加载：24]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'static',
+    1 => 'js',
+    2 => 'bootstrap',
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'tp5.cn',
+  'connection' => 'keep-alive',
+  'cache-control' => 'no-cache',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN,zh;q=0.8,en;q=0.6',
+  'cookie' => 'nowVisitDomain=tp5.cn',
+)
+[ info ] [ PARAM ] array (
+  'css' => 'bootstrap.min.css.map',
+)
+[ info ] [ LOG ] INIT File
+
+---------------------------------------------------------------
+[ 2017-07-19T09:48:16+08:00 ] ::1 ::1 GET /tp5/
+[ log ] localhost/tp5/ [运行时间：0.031241s][吞吐率：32.01req/s] [内存消耗：1,788.81kb] [文件加载：36]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'SQLiteManager_currentLangue=2',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/603.2.4 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.4',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Redis' not found[/Applications/MAMP/htdocs/tp5/thinkphp/library/think/Controller.php:70]
+
+---------------------------------------------------------------
+[ 2017-07-19T09:48:20+08:00 ] ::1 ::1 GET /tp5/
+[ log ] localhost/tp5/ [运行时间：0.028949s][吞吐率：34.54req/s] [内存消耗：1,788.81kb] [文件加载：36]
+[ info ] [ LANG ] /Applications/MAMP/htdocs/tp5/thinkphp/lang/zh-cn.php
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => '',
+    1 => NULL,
+    2 => NULL,
+  ),
+)
+[ info ] [ HEADER ] array (
+  'host' => 'localhost',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+  'upgrade-insecure-requests' => '1',
+  'cookie' => 'SQLiteManager_currentLangue=2',
+  'user-agent' => 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/603.2.4 (KHTML, like Gecko) Version/10.1.1 Safari/603.2.4',
+  'accept-language' => 'zh-cn',
+  'accept-encoding' => 'gzip, deflate',
+  'connection' => 'keep-alive',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ LOG ] INIT File
+[ error ] [1]Class 'Redis' not found[/Applications/MAMP/htdocs/tp5/thinkphp/library/think/Controller.php:70]
+
+---------------------------------------------------------------

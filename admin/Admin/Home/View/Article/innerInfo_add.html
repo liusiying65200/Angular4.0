@@ -1,0 +1,125 @@
+<include file='index:header' />
+<style>
+    .m-b{margin-bottom:15px}
+</style>
+<link href="__PUBLIC__/css/common.css" rel="stylesheet" type="text/css"/>
+<link href="__PUBLIC__/css/themes/default/default.css" rel="stylesheet" type="text/css" />
+<div class="main-container" id="main-container">
+
+
+    <include file='index:left' />
+
+    <div class="main-content">
+        <div class="main-content-inner">
+            <div class="page-content">
+
+                <div class="page-header">
+                    <h1>
+                        您当前操作
+                        <small>
+                            <i class="ace-icon fa fa-angle-double-right"></i>
+                            添加内幕资料
+                        </small>
+                    </h1>
+                </div>
+
+                <div class="row">
+                    <div class="col-xs-12">
+                        <div>
+                            <div class="formbody">
+                                <div id="msg">
+                                    <form id="addForm">
+                                        <table class="page_table" cellpadding="0" cellspacing="1">
+                                            <tr>
+                                                <td width="10%" class="td_left">期数：</td>
+                                                <td width="90%" class="left"><input id="kithe" style="width:350px;" class="biankuan" placeholder="请输入标题名称"/></td>
+                                            </tr>
+
+                                            <tr>
+                                                <td width="10%" class="td_left">内幕资料：</td>
+                                                <td width="90%" class="left">
+                                                    <div class="m-b">单双中特：<input  type="text" id="sdms" value="" class="biankuan" style="width:350px;"/></div>
+                                                    <diV class="m-b">野兽家畜：<input  type="text" id="wild" value="" class="biankuan" style="width:350px;"/></diV>
+                                                    <div>精选波色：<input  type="text" id="waveColor" value="" class="biankuan" style="width:350px;"/></div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td width="10%" class="td_left">必中生肖：</td>
+                                                <td width="90%" class="left">
+                                                    <div class="m-b">九肖中特：<input   id="shengxiao_9" value="" class="biankuan" style="width:350px;"/></div>
+                                                    <diV class="m-b">七肖中特：<input   id="shengxiao_7" value="" class="biankuan" style="width:350px;"/></diV>
+                                                    <div class="m-b">六肖中特：<input id="shengxiao_6" value="" class="biankuan" style="width:350px;"/></div>
+                                                    <div>四肖中特：<input  id="shengxiao_4" value="" class="biankuan" style="width:350px;"/></div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td width="10%" class="td_left">必中生肖：</td>
+                                                <td width="90%" class="left">
+                                                    <div class="m-b">杀一肖：<input  type="text" id="sha_1" value="" class="biankuan" style="width:350px;"/></div>
+                                                    <diV>杀一尾：<input  type="text" id="sha_last" value="" class="biankuan" style="width:350px;"/></diV>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                </td>
+                                                <td align="left">
+                                                    <input type="button"  value="提交内容" class="tijiao_input"  onClick="add()"/>
+                                                </td>
+                                            </tr>
+                                        </table>
+                                    </form>
+                                </div>
+                                <div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <include file='index:header_nav' />
+
+                    </div><!-- /.page-content -->
+                </div>
+            </div><!-- /.main-content -->
+        </div>
+        <include file='index:footer' />
+    </div>
+    <script src="__PUBLIC__/js/jquery.min.js"></script>
+
+    <script>
+        //=======================获取数据
+        function add(){
+            var shengxiao={
+                shengxiao_9:$('#shengxiao_9').val(),
+                shengxiao_7:$('#shengxiao_7').val(),
+                shengxiao_6:$('#shengxiao_6').val(),
+                shengxiao_4:$('#shengxiao_4').val()
+            }
+
+            var inner_info={
+                sdms:$('#sdms').val(),
+                wild:$('#wild').val(),
+                waveColor:$('#waveColor').val(),
+            }
+            var shaxiao={
+                sha_1:$('#sha_1').val(),
+                sha_last:$('#sha_last').val()
+            }
+            $.ajax({
+                url: "__CONTROLLER__/innerInfo_add",
+                dataType:"json",
+                type:"POST",
+                data:{kithe:$('#kithe').val(),shengxiao:shengxiao,inner_info:inner_info,shaxiao:shaxiao},
+                success:function(data) {
+                    if(data.status==1){
+                        layer.msg(data.info);
+                        location.href='__CONTROLLER__/inner_info';
+                    }else{
+                        layer.msg(data.info);
+                    }
+
+                }
+            });
+
+        }
+    </script>
+    </body>
+    </html>

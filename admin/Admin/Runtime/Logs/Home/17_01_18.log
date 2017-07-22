@@ -1,0 +1,1655 @@
+[ 2017-01-18T13:52:08+08:00 ] 117.61.0.100 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124801s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124801s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:52:08+08:00 ] 117.61.0.100 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.140401s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.140401s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:52:24+08:00 ] 117.61.0.100 /admin.php/Caiji/bbsx/se/254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [8] Undefined index: page D:\wwwroot\cpbbs\web\Admin\Common\Page.class.php 第 15 行.
+NOTIC: [8] Undefined variable: search D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 43 行.
+NOTIC: [8] Undefined variable: search D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 44 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.015600s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124801s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124801s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:52:27+08:00 ] 117.61.0.100 /admin.php/Home/Caiji/bbscj/id/9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [8] Undefined index: caiji_url D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Think\Db\Driver.class.php 第 992 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:52:38+08:00 ] 117.61.0.100 /admin.php/Home/Caiji/zxbbscj/id/9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [8] Undefined variable: hltml D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 389 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: misplaced &lt;html&gt; tag in Entity, line: 1 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: misplaced &lt;head&gt; tag in Entity, line: 2 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: misplaced &lt;body&gt; tag in Entity, line: 5 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 39 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 54 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 54 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 54 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 54 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 69 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 69 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 84 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 99 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 114 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 129 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 144 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 159 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 174 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 189 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 204 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 204 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 219 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 234 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 249 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 249 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 249 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 249 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 249 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 249 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 264 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 279 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 279 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 279 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 279 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 279 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 279 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 279 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 279 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 279 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 279 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 309 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 309 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 309 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 309 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 309 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID dsfd already defined in Entity, line: 309 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: misplaced &lt;html&gt; tag in Entity, line: 318 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseStartTag: misplaced &lt;head&gt; tag in Entity, line: 319 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: D方法实例化没找到模型类Home\Model\BbsModel
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 216 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 21 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 29 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi1 already defined in Entity, line: 41 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi2 already defined in Entity, line: 61 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 382 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 384 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 400 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant red - assumed 'red' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 251 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 216 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 21 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 29 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi1 already defined in Entity, line: 41 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi2 already defined in Entity, line: 61 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 365 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 367 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 383 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant red - assumed 'red' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 251 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 216 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 21 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 29 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi1 already defined in Entity, line: 41 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi2 already defined in Entity, line: 61 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 369 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 371 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 387 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant red - assumed 'red' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 251 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 216 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 21 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 29 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi1 already defined in Entity, line: 41 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi2 already defined in Entity, line: 61 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 345 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 347 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 363 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant red - assumed 'red' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 251 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 216 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 21 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 29 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi1 already defined in Entity, line: 41 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi2 already defined in Entity, line: 61 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 312 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 314 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 330 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant red - assumed 'red' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 251 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 216 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 21 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 29 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi1 already defined in Entity, line: 41 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi2 already defined in Entity, line: 61 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 378 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 380 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 396 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant red - assumed 'red' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 251 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 216 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 21 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 29 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi1 already defined in Entity, line: 41 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi2 already defined in Entity, line: 61 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 390 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 392 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 408 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant red - assumed 'red' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 251 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 216 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 21 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 29 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi1 already defined in Entity, line: 41 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi2 already defined in Entity, line: 61 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 396 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 398 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 414 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant red - assumed 'red' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 251 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 216 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 21 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 29 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi1 already defined in Entity, line: 41 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi2 already defined in Entity, line: 61 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 369 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 371 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 387 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant red - assumed 'red' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 251 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 216 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 21 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 29 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi1 already defined in Entity, line: 41 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi2 already defined in Entity, line: 61 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 398 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 400 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 416 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant red - assumed 'red' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 251 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 216 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 21 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 29 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi1 already defined in Entity, line: 41 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi2 already defined in Entity, line: 61 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID __kindeditor_bookmark_end_7__ already defined in Entity, line: 240 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID __kindeditor_bookmark_end_7__ already defined in Entity, line: 252 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID __kindeditor_bookmark_end_7__ already defined in Entity, line: 296 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID __kindeditor_bookmark_end_7__ already defined in Entity, line: 328 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 376 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 378 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 394 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant red - assumed 'red' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 251 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 216 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 21 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 29 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi1 already defined in Entity, line: 41 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi2 already defined in Entity, line: 61 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 374 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 376 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 392 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant red - assumed 'red' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 251 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 216 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 21 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 29 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi1 already defined in Entity, line: 41 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi2 already defined in Entity, line: 61 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 306 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 308 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 324 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant red - assumed 'red' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 251 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 216 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 21 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 29 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi1 already defined in Entity, line: 41 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi2 already defined in Entity, line: 61 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 367 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 369 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 385 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant red - assumed 'red' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 251 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 216 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 21 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 29 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi1 already defined in Entity, line: 41 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi2 already defined in Entity, line: 61 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 273 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 275 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 291 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant red - assumed 'red' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 251 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 216 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 21 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 29 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi1 already defined in Entity, line: 41 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi2 already defined in Entity, line: 61 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 339 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 341 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 357 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant red - assumed 'red' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 251 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 216 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 21 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 29 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi1 already defined in Entity, line: 41 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi2 already defined in Entity, line: 61 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 406 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 408 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 424 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant red - assumed 'red' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 251 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 216 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 21 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 29 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi1 already defined in Entity, line: 41 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi2 already defined in Entity, line: 61 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 398 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 400 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 416 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant red - assumed 'red' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 251 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 216 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 21 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 29 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi1 already defined in Entity, line: 41 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi2 already defined in Entity, line: 61 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 357 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 359 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 375 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant red - assumed 'red' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 251 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 216 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag header invalid in Entity, line: 21 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 29 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi1 already defined in Entity, line: 41 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID nLi2 already defined in Entity, line: 61 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag footer invalid in Entity, line: 382 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Tag nav invalid in Entity, line: 384 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 400 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant red - assumed 'red' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 251 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:52:45+08:00 ] 61.151.226.199 /admin.php/home/caiji/bbscj/id/9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+NOTIC: [8] Undefined index: aid D:\wwwroot\cpbbs\web\Admin\Common\Controller\AuthController.class.php 第 24 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:52:45+08:00 ] 101.226.99.196 /admin.php/caiji/bbsx/se/254
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: aid D:\wwwroot\cpbbs\web\Admin\Common\Controller\AuthController.class.php 第 24 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:56:13+08:00 ] 117.61.0.100 /admin.php/Home/Caiji/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [8] Undefined index: page D:\wwwroot\cpbbs\web\Admin\Common\Page.class.php 第 15 行.
+NOTIC: [8] Undefined variable: search D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: search D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:56:16+08:00 ] 117.61.0.100 /admin.php/Caiji/pic/se/244
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [8] Undefined index: page D:\wwwroot\cpbbs\web\Admin\Common\Page.class.php 第 15 行.
+NOTIC: [8] Undefined variable: search D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 29 行.
+NOTIC: [8] Undefined variable: search D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 30 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:56:18+08:00 ] 117.61.0.100 /admin.php/Home/Caiji/cjpic/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [8] Undefined index: caiji_url D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Think\Db\Driver.class.php 第 992 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:56:22+08:00 ] 117.61.0.100 /admin.php/Home/Caiji/zxcjpic/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 23 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 23 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 23 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 23 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 23 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 28 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 28 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 28 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 28 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 28 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 28 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 28 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 28 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 28 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 28 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 28 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 28 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 28 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 28 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 28 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 28 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID piclist_li already defined in Entity, line: 57 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID piclist_li already defined in Entity, line: 60 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID piclist_li already defined in Entity, line: 63 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID piclist_li already defined in Entity, line: 66 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID piclist_li already defined in Entity, line: 69 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID piclist_li already defined in Entity, line: 72 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID piclist_li already defined in Entity, line: 75 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID piclist_li already defined in Entity, line: 78 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID piclist_li already defined in Entity, line: 81 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID piclist_li already defined in Entity, line: 84 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID piclist_li already defined in Entity, line: 87 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID piclist_li already defined in Entity, line: 90 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID piclist_li already defined in Entity, line: 93 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID piclist_li already defined in Entity, line: 96 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID piclist_li already defined in Entity, line: 99 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID piclist_li already defined in Entity, line: 102 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID piclist_li already defined in Entity, line: 105 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID piclist_li already defined in Entity, line: 108 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): ID piclist_li already defined in Entity, line: 111 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 116 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 116 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 116 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 116 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: no name in Entity, line: 116 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): htmlParseEntityRef: expecting ';' in Entity, line: 116 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): error parsing attribute name in Entity, line: 116 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 350 行.
+NOTIC: D方法实例化没找到模型类Home\Model\PicModel
+NOTIC: [8] Use of undefined constant picurl - assumed 'picurl' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 355 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:56:28+08:00 ] 101.226.66.172 /admin.php/home/caiji/cjpic/id/8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: aid D:\wwwroot\cpbbs\web\Admin\Common\Controller\AuthController.class.php 第 24 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:56:30+08:00 ] 117.61.0.100 /admin.php/Home/Caiji/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [8] Undefined index: page D:\wwwroot\cpbbs\web\Admin\Common\Page.class.php 第 15 行.
+NOTIC: [8] Undefined variable: search D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: search D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124801s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124801s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:56:30+08:00 ] 101.226.89.116 /admin.php/home/caiji
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: aid D:\wwwroot\cpbbs\web\Admin\Common\Controller\AuthController.class.php 第 24 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:56:35+08:00 ] 101.226.33.204 /admin.php/caiji/pic/se/244
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: aid D:\wwwroot\cpbbs\web\Admin\Common\Controller\AuthController.class.php 第 24 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:56:38+08:00 ] 117.61.0.100 /admin.php/Caiji/index/se/205
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [8] Undefined index: page D:\wwwroot\cpbbs\web\Admin\Common\Page.class.php 第 15 行.
+NOTIC: [8] Undefined variable: search D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: search D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:56:43+08:00 ] 117.61.0.100 /admin.php/Home/Caiji/cj/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [8] Undefined index: caiji_url D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Think\Db\Driver.class.php 第 992 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015601s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015601s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:56:47+08:00 ] 61.151.218.118 /admin.php/caiji/index/se/205
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: aid D:\wwwroot\cpbbs\web\Admin\Common\Controller\AuthController.class.php 第 24 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:56:48+08:00 ] 117.61.0.100 /admin.php/Home/Caiji/zxcj/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : ul in Entity, line: 59 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 88 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 89 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 90 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: D方法实例化没找到模型类Home\Model\ArticleModel
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:56:51+08:00 ] 117.61.0.100 /admin.php/Home/Caiji/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [8] Undefined index: page D:\wwwroot\cpbbs\web\Admin\Common\Page.class.php 第 15 行.
+NOTIC: [8] Undefined variable: search D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: search D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:56:53+08:00 ] 101.226.66.172 /admin.php/home/caiji/cj/id/6
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: aid D:\wwwroot\cpbbs\web\Admin\Common\Controller\AuthController.class.php 第 24 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:56:54+08:00 ] 117.61.0.100 /admin.php/Home/Caiji/cj/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [8] Undefined index: caiji_url D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Think\Db\Driver.class.php 第 992 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:56:58+08:00 ] 117.61.0.100 /admin.php/Home/Caiji/zxcj/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : ul in Entity, line: 59 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 88 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 89 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 90 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: D方法实例化没找到模型类Home\Model\ArticleModel
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:57:01+08:00 ] 117.61.0.100 /admin.php/Home/Caiji/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [8] Undefined index: page D:\wwwroot\cpbbs\web\Admin\Common\Page.class.php 第 15 行.
+NOTIC: [8] Undefined variable: search D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: search D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:57:04+08:00 ] 117.61.0.100 /admin.php/Home/Caiji/cj/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [8] Undefined index: caiji_url D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Think\Db\Driver.class.php 第 992 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:57:06+08:00 ] 117.61.0.100 /admin.php/Home/Caiji/zxcj/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : ul in Entity, line: 59 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 88 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 89 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 90 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: D方法实例化没找到模型类Home\Model\ArticleModel
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:57:10+08:00 ] 117.61.0.100 /admin.php/Home/Caiji/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [8] Undefined index: page D:\wwwroot\cpbbs\web\Admin\Common\Page.class.php 第 15 行.
+NOTIC: [8] Undefined variable: search D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: search D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:57:12+08:00 ] 101.226.66.177 /admin.php/home/caiji/cj/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: aid D:\wwwroot\cpbbs\web\Admin\Common\Controller\AuthController.class.php 第 24 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:57:13+08:00 ] 117.61.0.100 /admin.php/Home/Caiji/cj/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [8] Undefined index: caiji_url D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Think\Db\Driver.class.php 第 992 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2017-01-18T13:57:14+08:00 ] 61.151.226.202 /admin.php/home/caiji/cj/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: aid D:\wwwroot\cpbbs\web\Admin\Common\Controller\AuthController.class.php 第 24 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:57:14+08:00 ] 180.153.214.192 /admin.php/home/caiji/cj/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: aid D:\wwwroot\cpbbs\web\Admin\Common\Controller\AuthController.class.php 第 24 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:57:16+08:00 ] 117.61.0.100 /admin.php/Home/Caiji/zxcj/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : ul in Entity, line: 59 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 88 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 89 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 90 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: D方法实例化没找到模型类Home\Model\ArticleModel
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 49 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 50 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 51 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:57:19+08:00 ] 117.61.0.100 /admin.php/Home/Caiji/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [8] Undefined index: page D:\wwwroot\cpbbs\web\Admin\Common\Page.class.php 第 15 行.
+NOTIC: [8] Undefined variable: search D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 14 行.
+NOTIC: [8] Undefined variable: search D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+NOTIC: [8] Use of undefined constant title - assumed 'title' D:\wwwroot\cpbbs\web\Admin\Home\Common\Common.php 第 29 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.109200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.109200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:57:21+08:00 ] 180.153.201.15 /admin.php/home/caiji/cj/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: aid D:\wwwroot\cpbbs\web\Admin\Common\Controller\AuthController.class.php 第 24 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.000000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:57:22+08:00 ] 101.226.99.197 /admin.php/home/caiji/cj/id/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: aid D:\wwwroot\cpbbs\web\Admin\Common\Controller\AuthController.class.php 第 24 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:57:22+08:00 ] 117.61.0.100 /admin.php/Home/Caiji/cj/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [8] Undefined index: caiji_url D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Think\Db\Driver.class.php 第 992 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T13:57:23+08:00 ] 117.61.0.100 /admin.php/Home/Caiji/zxcj/id/2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: D方法实例化没找到模型类Home\Model\CaijiUrlModel
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : ul in Entity, line: 59 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : span in Entity, line: 88 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : p in Entity, line: 89 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: [2] DOMDocument::loadHTML(): Unexpected end tag : div in Entity, line: 90 D:\wwwroot\cpbbs\web\Public\ThinkPHP\Library\Org\QueryList\phpQuery\phpQuery\DOMDocumentWrapper.php 第 199 行.
+NOTIC: D方法实例化没找到模型类Home\Model\ArticleModel
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+NOTIC: [8] Use of undefined constant url - assumed 'url' D:\wwwroot\cpbbs\web\Admin\Home\Controller\CaijiController.class.php 第 821 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T14:29:48+08:00 ] 117.61.0.100 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2017-01-18T14:29:48+08:00 ] 117.61.0.100 /admin.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T14:29:54+08:00 ] 117.61.0.100 /admin.php/Ziliao/tms/se/241
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: page D:\wwwroot\cpbbs\web\Admin\Common\Page.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124801s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124801s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T14:30:01+08:00 ] 117.61.0.100 /admin.php/Home/Ziliao/tms_edit/id/90
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.109200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.109200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T14:30:21+08:00 ] 101.226.33.237 /admin.php/home/ziliao/tms_edit/id/90
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: aid D:\wwwroot\cpbbs\web\Admin\Common\Controller\AuthController.class.php 第 24 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T14:30:26+08:00 ] 117.61.0.100 /admin.php/Home/Ziliao/tms_runedit
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T14:30:28+08:00 ] 117.61.0.100 /admin.php/Ziliao/tms/se/241
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: page D:\wwwroot\cpbbs\web\Admin\Common\Page.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T14:30:31+08:00 ] 117.61.0.100 /admin.php/Home/Ziliao/tms_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.109200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.109200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T14:30:47+08:00 ] 101.226.66.178 /admin.php/home/ziliao/tms_add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: aid D:\wwwroot\cpbbs\web\Admin\Common\Controller\AuthController.class.php 第 24 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015600s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-18T14:30:54+08:00 ] 117.61.0.100 /admin.php/Home/Ziliao/tms_runadd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+
+[ 2017-01-18T14:31:00+08:00 ] 117.61.0.100 /admin.php/Ziliao/tms/se/241
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined index: page D:\wwwroot\cpbbs\web\Admin\Common\Page.class.php 第 15 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.124800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.124800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: Run Behavior\TokenBuildBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
